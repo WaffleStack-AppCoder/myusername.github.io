@@ -19,7 +19,7 @@ header{
 
 aside{
     float: right;
-    border-right: 0.9rem red solid;
+    border-right: 0.9rem orangered solid;
 }
 
 
@@ -89,3 +89,4 @@ footer a{
     font-style: italic;
 
 }
+
